@@ -32,7 +32,7 @@
 | [dotfiles](https://github.com/deyama-WFH/dotfiles) | GitHub Codespaces を自分用に使いやすくするための dotfiles リポジトリです。 | 準備中 |
 | nippo_v1 | 日報ファイルを管理し、日本語の日報テキストを GitHub 対応の Markdown に整えるためのリポジトリです。 | 非公開 |
 | yuru-kuruma-kanri-App | 車に詳しくない人でも、車検・点検・燃費・消耗品交換をゆるく管理できるアプリの企画・開発リポジトリです。 | 制作中 |
-| nekoreco | 猫の多頭飼育における個体管理アプリの企画・開発リポジトリです。 | 制作中 |
+| [nekoreco](https://github.com/deyama-WFH/nekoreco)| 猫の多頭飼育における個体管理アプリの企画・開発リポジトリです。 | 制作中 |
 
 ## Now
 
