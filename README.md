@@ -6,7 +6,7 @@
 生成AIやCodexを使った開発、GitHub運用、アプリ企画、日報・記録の整理に関心があります。  
 「知らない状態から、どこまで形にできるか」を実験しながら、実用的な小さなツールを増やしています。
 
-入社3ヶ月目の現在は、Issue整理、GitHubでの作業管理、PR前の表示確認、AIを使った実装補助を中心に経験を積んでいます。  
+入社4ヶ月目の現在は、Issue整理、GitHubでの作業管理、PR前の表示確認、AIを使った実装補助を中心に経験を積んでいます。  
 バイブコーディングも活用しながら、ただ作るだけでなく「何のために作るのか」「どこを確認したのか」まで説明できる駆け出しエンジニアを目指しています。
 勉強会等でお会いした方々のGitHubアカウントをよくフォローしたりします。勉強させてください！
 
@@ -37,7 +37,7 @@
  - Qwen3.6
  - Qwen3:8
  - gemma4
-- WindowsとMacとubuntu使い分け
+- WindowsとMacとubuntu使い分け(仕事中はMacしか使ってません)
 
 ## Current Focus
 
@@ -57,11 +57,11 @@
 | [deyama-WFH.github.io](https://github.com/deyama-WFH/deyama-WFH.github.io) | GitHub Pages 用のリポジトリです。 | 準備中 |
 | [dotfiles](https://github.com/deyama-WFH/dotfiles) | GitHub Codespaces を自分用に使いやすくするための dotfiles リポジトリです。 | 準備中 |
 | nippo_v1 | 日報ファイルを管理し、日本語の日報テキストを GitHub 対応の Markdown に整えるためのリポジトリです。 | 非公開 |
-| yuru-kuruma-kanri-App | 車に詳しくない人でも、車検・点検・燃費・消耗品交換をゆるく管理できるアプリの企画・開発リポジトリです。 | 製作中 |
-| [nekoreco](https://github.com/deyama-WFH/nekoreco)| 猫の多頭飼育における個体管理アプリの企画・開発リポジトリです。 | 改良中 |
-| [sauna_itta](https://github.com/deyama-WFH/sauna_itta) | サウナ後のととのった状態でも軽く記録を残せるサ活アプリです。| ほぼ完成 |
+| glossary | 仕事で覚えた単語を週報からスキルで自動仕分けし、カテゴリごとに並べる単語帳のリポジトリです。 | 非公開 |
+| private-issues_v1 | 業務時間内にこなすタスクがイシューとして積み上がるだけのリポジトリです。 | 非公開 |
+| private-issues_v2 | 業務時間外にこなすタスクがイシューとして積み上がるだけのリポジトリです。勉強会の記録はここに入ってます。 | 非公開 |
 
 ## Now
 
-noteでは日々の記録を中心に、学んだことや気づきを残しています。  
+noteでは週報をベースに成長ログ的なものをを残しています。  
 GitHubでは、学習の過程も含めて「作ったもの」「考えたこと」「改善したこと」が見えるようにしていきます。
