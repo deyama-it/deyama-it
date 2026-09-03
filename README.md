@@ -14,9 +14,9 @@
 
 | Platform | URL |
 |---|---|
-| X | [@deyama_WFH](https://x.com/deyama_WFH) |
-| note | [でやま｜猫多すぎの駆け出しエンジニア](https://note.com/deyama_wfh) |
-| Linktree | [linktr.ee/deyama_WFH](https://linktr.ee/deyama_WFH) |
+| X | [@deyama_it](https://x.com/deyama_it) |
+| note | [でやま｜猫とAIと個人開発｜出山IT事務所](https://note.com/deyama_it) |
+| Linktree | [linktr.ee/deyama_it](https://linktr.ee/deyama_it) |
 
 ## About
 
