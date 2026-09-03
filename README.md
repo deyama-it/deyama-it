@@ -54,7 +54,7 @@
 | [awesome-design-md](https://github.com/deyama-it/awesome-design-md) | 人気ブランドのデザインシステムを分析した `DESIGN.md` のコレクションです。 | 公開中（Fork） |
 | [Curriculum-Vitae](https://github.com/deyama-it/Curriculum-Vitae) | 職務経歴書を管理しているリポジトリです。 | 公開中（Fork） |
 | [deyama-it](https://github.com/deyama-it/deyama-it) | このプロフィール README を管理しているリポジトリです。 | 公開中 |
-| [deyama-WFH.github.io](https://github.com/deyama-it/deyama-WFH.github.io) | GitHub Pages 用のリポジトリです。 | 公開中 |
+| [deyama-it.github.io](https://github.com/deyama-it/deyama-it.github.io) | GitHub Pages 用のリポジトリです。 | 公開中 |
 | [dotfiles](https://github.com/deyama-it/dotfiles) | GitHub Codespaces を自分用に使いやすくするための dotfiles リポジトリです。 | 公開中 |
 | [nekoreco](https://github.com/deyama-it/nekoreco) | 多頭飼育の個体管理アプリ「ねこレコ」のリポジトリです。 | 公開中 |
 | [sauna_itta](https://github.com/deyama-it/sauna_itta) | サウナ後のととのった状態を邪魔しない、サウナー向けの簡易記録アプリです。 | 公開中 |
